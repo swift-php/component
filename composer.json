@@ -1,5 +1,5 @@
 {
-  "name": "swift/component",
+  "name": "swift-php/component",
   "type": "library",
   "description": "swift component",
   "keywords" : ["swoole", "framework", "async"],
